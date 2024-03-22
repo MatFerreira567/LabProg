@@ -1,0 +1,20 @@
+Aluno 22032 Matheus 20231737793
+Aluno 22033 Caruba 20132167843
+Aluno 22034 Luiz 20231736687
+Aluno 22045 Lucian 12345678912
+Aluno 22037 Julia 23456789012
+Aluno 22035 Milena 15571087730
+Aluno 22011 Romero 36492634531
+Aluno 22012 Giovana 78789098763
+Aluno 22010 Pedrinho 22133654676
+Aluno 22009 Tassandro 35492374593
+Disciplina 0001 Matematica Matheus 2 2018.1
+Disciplina 0004 Portugues2 Veloso 4 2023.2
+Disciplina 0002 Ingles1 Rodala 2 2018.1
+Disciplina 0007 RelacoesInternacionais Scouper 7 2023.2
+Disciplina 0006 SistemasDigitais Raquel 3 2023.1
+Matricula 22032 0001 2018.1
+Matricula 22033 0001 2018.1
+Matricula 22033 0004 2023.2
+Matricula 22011 0007 2023.2
+Matricula 22009 0006 2023.1
